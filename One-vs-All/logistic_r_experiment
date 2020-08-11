@@ -1,0 +1,1073 @@
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 754 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1250 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1260 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1318 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1410 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1427 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1573 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1732 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1844 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1884 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1946 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1960 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1977 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1995 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1998 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2000 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2430 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2604 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2664 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2670 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2702 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3026 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3077 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3160 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3176 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3186 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3199 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3226 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3267 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3381 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3386 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3475 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3739 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3760 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3780 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4016 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4079 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4148 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4252 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4284 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4365 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4432 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4467 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4493 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4653 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4658 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4663 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4694 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4725 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4747 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4800 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4803 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4827 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4836 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1276 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1327 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1367 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1400 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1473 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1655 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1678 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1940 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1948 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2023 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2030 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2033 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2448 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3035 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3036 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3090 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3172 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3205 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3362 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3499 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3538 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3553 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3556 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3569 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3681 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4174 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4235 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4262 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4285 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4298 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4304 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4305 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4307 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4375 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4379 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4408 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4522 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4553 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4570 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4579 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4665 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4669 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4677 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4703 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4801 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4804 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 194 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 248 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 450 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 476 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 643 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 924 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1055 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1062 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1077 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1350 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1412 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1433 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1443 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1446 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1490 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1522 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1532 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1624 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1837 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1841 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1922 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2007 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2011 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2169 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2388 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2645 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2675 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2703 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3012 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3269 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3280 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3378 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3382 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3691 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3835 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3931 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4224 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4264 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4276 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4281 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4288 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4319 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4351 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4399 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4406 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4486 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4492 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4514 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4516 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4648 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4719 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4749 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4799 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4808 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 307 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 994 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1311 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1357 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1408 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1434 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1456 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1545 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1869 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1911 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1918 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1962 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2370 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2750 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3104 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3105 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3106 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3164 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3201 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3208 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3212 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3215 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3254 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3342 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3449 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3476 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3522 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3664 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3776 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3795 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4227 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4269 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4436 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4498 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4502 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4525 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4589 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4600 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4676 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4726 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4730 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4767 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4807 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 899 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 962 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1640 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1834 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1933 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1959 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2016 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2037 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2526 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2715 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2982 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3185 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3228 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3340 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3385 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3694 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3713 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3914 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3988 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4170 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4238 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4259 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4289 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4294 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4309 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4491 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4592 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4594 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4650 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4683 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4779 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4816 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4819 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4820 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 188 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 216 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 341 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 749 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 833 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 906 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 964 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1161 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1333 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1341 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1359 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1383 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1407 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1409 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1416 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1429 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1666 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1680 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1685 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1704 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1969 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1997 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2001 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2018 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2336 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2453 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2530 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2699 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2701 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2705 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2942 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2945 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3091 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3244 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3245 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3249 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3373 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3545 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3707 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3755 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3801 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3928 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4017 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4027 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4054 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4222 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4253 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4273 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4360 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4386 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4419 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4450 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4490 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4496 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4691 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4695 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4697 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4711 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4750 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4813 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 514 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 545 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 785 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 930 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1083 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1328 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1414 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1672 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1747 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1795 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1825 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1893 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1929 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1954 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1967 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1979 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2202 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2315 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2455 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2462 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2497 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3039 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3087 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3109 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3178 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3211 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3332 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3572 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3679 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3796 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3809 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4128 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4275 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4337 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4417 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4422 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4446 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4461 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4537 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4539 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4545 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4571 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4585 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4597 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4630 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4671 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4685 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4706 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4759 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4784 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4786 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4815 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 714 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1060 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1206 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1377 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1420 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1531 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1789 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1864 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1870 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1880 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1906 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1930 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1943 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1981 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2003 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2004 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2051 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2125 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2174 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2236 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2311 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2424 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2440 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2454 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2507 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2561 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2650 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2686 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3032 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3053 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3129 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3148 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3273 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3578 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3710 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3726 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3789 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3799 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4114 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4137 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4313 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4384 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4398 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4445 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4471 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4483 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4484 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4505 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4518 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4652 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4699 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4740 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4805 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4806 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/joblib/parallel.py:711: UserWarning: Loky-backed parallel loops cannot be called in a multiprocessing, setting n_jobs=1
+  **self._backend_args)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 451 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 926 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1017 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1178 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1413 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1471 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1487 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1510 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1817 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1839 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1890 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1924 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1975 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 1988 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2029 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2034 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2177 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2672 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2695 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 2704 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3137 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3380 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3497 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/linear_model/_logistic.py:940: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  extra_warning_msg=_LOGISTIC_SOLVER_CONVERGENCE_MSG)
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3818 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 3983 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4043 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4243 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4257 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4310 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4317 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4361 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4552 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4577 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4626 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4627 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4778 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4785 is present in all training examples.
+  str(classes[c]))
+/home/fp19058/.local/lib/python3.7/site-packages/sklearn/multiclass.py:75: UserWarning: Label not 4811 is present in all training examples.
+  str(classes[c]))
+EconBiz average F-1 score: 0.19643283677296558
